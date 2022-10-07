@@ -92,3 +92,52 @@ header{
     margin: 2px;
     padding-bottom: 10px;
 }
+
+.painel{
+    margin: 10px 0;
+    padding: 10px;
+    width: 445px
+}
+
+.painel a{
+    color: #333333;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.painel h2{
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 10px
+}
+
+.novidades{
+    float: left;
+    background-color: #F5DCDC;
+}
+
+.mais-vendidos{
+    float: right;
+    background-color: #DCDCF5
+}
+
+.facebook{
+    /* tamanho do elemento = imagem */
+    height: 55px;
+    width: 85px;
+    /* imagem como fundo */
+    background-image: url(img/facebook.png);
+    /* retirando o texto da frente */
+    text-indent: -9999px;
+}
+
+footer{
+    background-image: url("img/fundo-rodape.png")
+}
+.social a{
+    height: 32px;
+}
+
+
